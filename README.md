@@ -2,14 +2,12 @@ Hi there, I'm Kalkidan Kerala 👋
 🎓 Computer Science Student | 💻 Backend Developer | 🤖 ML Enthusiast
 I'm a Computer Science student at American University of Ras Al Khaimah (UAE) with a passion for building scalable backend systems, distributed architectures, and machine learning applications.
 🔬 Research
-
-📝 Published researcher at IEEE/ICCA 2025 International Conference
 📄 Paper: "Efficient Routing Scheme Using Quadrant Turn Model for 2D Mesh NoC Architecture"
 
 💼 Experience
 
 🏢 Backend Development & AI Intern at RAK DAO (Innovation City) - Built production REST APIs and NLP-powered applications
-🎯 GPA: 3.81/4.0 | President's and Dean's List Holder
+🎯  President's and Dean's List Holder
 🚀 Featured Projects
 🔧 TaskFlow - Distributed Job Queue System
 A production-ready background job processing system handling 1000+ jobs/hour
